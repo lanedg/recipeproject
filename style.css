@@ -1,0 +1,25 @@
+div.recipe-links {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul.recipe-links {
+  display: inline-block;
+  text-align: left;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
